@@ -1,0 +1,11 @@
+POST http://localhost:8888/axon-demo/ship-order
+
+###
+
+POST http://localhost:8888/axon-demo/ship-unconfirmed-order
+
+###
+
+GET http://localhost:8888/axon-demo/all-orders
+
+###
